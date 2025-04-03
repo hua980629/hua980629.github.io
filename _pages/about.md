@@ -51,7 +51,7 @@ Ruoyan Ma, Shengan Zheng, Guifeng Wang, Jin Pu, **Yifan Hua**, Wentao Wang, Linp
 
 郑圣安，陈赵旻意，黄林鹏，戚振林，张博文，孙鹏昊，**花一帆**。一种面向微内核操作系统的快速目录解析文件系统。
 
-郑圣安，黄林鹏，马若岩，**花一帆**。面向基于存算架构的图数据库系统。
+郑圣安，黄林鹏，马若岩，**花一帆**。面向基于存算一体架构的图数据库系统。
 
 
 获奖情况（Honors and awards）
