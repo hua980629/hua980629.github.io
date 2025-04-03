@@ -1,12 +1,3 @@
----
-permalink: /
-title: "Yifan Hua（花一帆）"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
 简介（Brief introduction）
 ======
 
