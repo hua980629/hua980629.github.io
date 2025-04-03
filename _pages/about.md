@@ -14,25 +14,33 @@ redirect_from:
 
 Yifan Hua is currently a Postdoctoral Assistant Researcher at the School of Computer Science, Peking University, working under the supervision of Academician Hong Mei. His research interests include, but are not limited to, ubiquitous operating systems, embodied intelligence, storage systems, and memory computing. Prior to this, he received his Ph.D. degree in Computer Science from Shanghai Jiao Tong University in 2025, advised by Professor Linpeng Huang, and his B.E. degree from Northeastern University in 2020, advised by Professor Xiaochun Yang.
 
+研究兴趣（Research Interests）
+======
+
+我的研究兴趣包括泛在操作系统、具身智能系统软件、内存与存储系统、存算一体系统。
+
+My research interests include ubiquitous operating systems (UOS), system software for embodied intelligence, memory and storage systems, and processing-in-memory (PIM) systems.
 
 论文发表（Publication）
 ======
 
-**Yifan Hua**, Shengan Zheng, Ji Yin, Weidong Chen, Linpeng Huang. Bumblebee: A MemCache Design for Die-stacked and Off-chip Heterogeneous Memory Systems.  Published in DAC 2023 (CCF-A会议).
+**Yifan Hua**, Shengan Zheng, Weihan Kong, Dongliang Xue, Ke Xi, Yuheng Wen, Linpeng Huang, Hong Mei. Accelerating Verifiable Queries over Blockchain Database System Using Processing-in-memory. Published in ACM Transactions on Architecture and Code Optimization (TACO) 2025 (CCF-A期刊).
 
-**Yifan Hua**, Shengan Zheng, Weihan Kong, Cong Zhou, Kaixin Huang, Ruoyan Ma, Linpeng Huang. RADAR: A Skew-resistant and Hotness-aware Ordered Index Design for Processing-in-memory Systems. Published in TPDS 2024 (CCF-A期刊)
+**Yifan Hua**, Shengan Zheng, Weihan Kong, Cong Zhou, Linpeng Huang. Phoenix: A Dynamically Reconfigurable Hybrid Memory System Combining Caching and Migration. Published in IEEE Transactions on Computer-Aided Design of Integrated Circuits And Systems (TCAD) 2024 (CCF-A期刊).
 
-**Yifan Hua**, Shengan Zheng, Weihan Kong, Cong Zhou, Linpeng Huang. Phoenix: A Dynamically Reconfigurable Hybrid Memory System Combining Caching and Migration. Published in TCAD 2024 (CCF-A期刊).
+**Yifan Hua**, Shengan Zheng, Weihan Kong, Cong Zhou, Kaixin Huang, Ruoyan Ma, Linpeng Huang. RADAR: A Skew-resistant and Hotness-aware Ordered Index Design for Processing-in-memory Systems. Published in IEEE Transactions on Parallel and Distributed Systems (TPDS) 2024 (CCF-A期刊).
 
-**Yifan Hua**, Kaixin Huang, Shengan Zheng and Linpeng Huang. Redesigning the Sorting Engine for Persistent Memory. Published in DASFAA 2021 (CCF-B会议). 
+**Yifan Hua**, Shengan Zheng, Ji Yin, Weidong Chen, Linpeng Huang. Bumblebee: A MemCache Design for Die-stacked and Off-chip Heterogeneous Memory Systems. Published in IEEE/ACM Design Automation Conference (DAC) 2023 (CCF-A会议).
 
-**Yifan Hua**, Kaixin Huang, Shengan Zheng and Linpeng Huang. PMSort: An adaptive sorting engine for persistent memory. Published in JSA 2021 (CCF-B期刊, JCR 1区). 
+**Yifan Hua**, Kaixin Huang, Shengan Zheng and Linpeng Huang. Redesigning the Sorting Engine for Persistent Memory. Published in International Conference on Database Systems for Advanced Applications (DASFAA) 2021 (CCF-B会议). 
+
+**Yifan Hua**, Kaixin Huang, Shengan Zheng and Linpeng Huang. PMSort: An adaptive sorting engine for persistent memory. Published in Journal of Systems Architecture (JSA) 2021 (CCF-B期刊). 
 
 Weihan Kong, Shengan Zheng, **Yifan Hua**, Ruoyan Ma, Yuheng Wen, Guifeng Wang, Cong
 Zhou, and Linpeng Huang. PimBeam: Efficient Regular Path Queries over Graph Database Us-
-ing Processing-in-Memory. IEEE Transactions on Parallel and Distributed Systems (TPDS), 2025.(CCF-A 类期刊)
+ing Processing-in-Memory. Published in IEEE Transactions on Parallel and Distributed Systems (TPDS) 2025 (CCF-A期刊).
 
-Ruoyan Ma, Shengan Zheng, Guifeng Wang, Jin Pu, **Yifan Hua**, Wentao Wang, Linpeng Huang. Accelerating Regular Path Queries over Graph Database with Processing-in-Memory. Published in DAC 2024 (CCF-A会议).
+Ruoyan Ma, Shengan Zheng, Guifeng Wang, Jin Pu, **Yifan Hua**, Wentao Wang, Linpeng Huang. Accelerating Regular Path Queries over Graph Database with Processing-in-Memory. Published in IEEE/ACM Design Automation Conference (DAC) 2024 (CCF-A会议).
 
 专利（Patent）
 ======
