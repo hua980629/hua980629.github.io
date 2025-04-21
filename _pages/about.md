@@ -12,7 +12,7 @@ redirect_from:
 
 花一帆目前是北京大学计算机学院的一名博士后助理研究员（获得北京大学“博雅博士后”项目资助，专业：计算机科学与技术，合作导师：梅宏院士）。在此之前，花一帆于2025年获得上海交通大学工学博士学位（专业：计算机科学与技术，导师：黄林鹏教授），于2020年获得东北大学工学学士学位（专业：计算机科学与技术，导师：于戈教授）。
 
-Yifan Hua is currently a postdoctoral research associate at the School of Computer Science, Peking University (specializing in Computer Science and Technology, under the supervision of Academician Hong Mei). Prior to this, Hua Yifan received a Ph.D. in Engineering from Shanghai Jiao Tong University in 2025 (specializing in Computer Science and Technology, supervised by Professor Linpeng Huang) and a Bachelor's degree in Engineering from Northeastern University in 2020 (specializing in Computer Science and Technology, supervised by Professor Ge Yu).
+Yifan Hua is currently a postdoctoral research associate at the School of Computer Science, Peking University (funded by the Peking University "Boya Postdoctoral Program", specializing in Computer Science and Technology, under the supervision of Academician Hong Mei). Prior to this, Hua Yifan received a Ph.D. in Engineering from Shanghai Jiao Tong University in 2025 (specializing in Computer Science and Technology, supervised by Professor Linpeng Huang) and a Bachelor's degree in Engineering from Northeastern University in 2020 (specializing in Computer Science and Technology, supervised by Professor Ge Yu).
 
 研究兴趣（Research Interests）
 ======
