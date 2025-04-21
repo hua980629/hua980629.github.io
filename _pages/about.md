@@ -1,7 +1,7 @@
 简介（Brief introduction）
 ======
 
-花一帆目前是北京大学计算机学院的一名博士后助理研究员（专业：计算机科学与技术，合作导师：梅宏院士）。在此之前，花一帆于2025年获得上海交通大学工学博士学位（专业：计算机科学与技术，导师：黄林鹏教授），于2020年获得东北大学工学学士学位（专业：计算机科学与技术，导师：于戈教授）。
+花一帆目前是北京大学计算机学院的一名博士后助理研究员（获得北京大学“博雅博士后”项目资助，专业：计算机科学与技术，合作导师：梅宏院士）。在此之前，花一帆于2025年获得上海交通大学工学博士学位（专业：计算机科学与技术，导师：黄林鹏教授），于2020年获得东北大学工学学士学位（专业：计算机科学与技术，导师：于戈教授）。
 
 Yifan Hua is currently a postdoctoral research associate at the School of Computer Science, Peking University (specializing in Computer Science and Technology, under the supervision of Academician Hong Mei). Prior to this, Hua Yifan received a Ph.D. in Engineering from Shanghai Jiao Tong University in 2025 (specializing in Computer Science and Technology, supervised by Professor Linpeng Huang) and a Bachelor's degree in Engineering from Northeastern University in 2020 (specializing in Computer Science and Technology, supervised by Professor Ge Yu).
 
@@ -44,9 +44,16 @@ Ruoyan Ma, Shengan Zheng, Guifeng Wang, Jin Pu, **Yifan Hua**, Wentao Wang, Linp
 
 郑圣安，黄林鹏，马若岩，**花一帆**。面向基于存算一体架构的图数据库系统。
 
+郑圣安，王旖旎，黄林鹏，张博文，**花一帆**，戚振林。“基于多智能体协作的操作系统故障诊断方法及系统”。
 
-获奖情况（Honors and awards）
+郑圣安，王思源，黄林鹏，张博文，戚振林，**花一帆**，孙鹏昊。“面向微内核架构的神经网络推理优化方法及系统”。
+
+郑圣安，王日龙，黄林鹏，张博文，戚振林，**花一帆**，孙鹏昊。“基于 RPC 通信机制和多级缓存机制的微内核内存分配方法及系统”。
+
+
+获奖与荣誉（Honors and awards）
 ======
+2025-2027年北京大学”博雅博士后“项目资助
 
 2024 年博士生国家奖学金
 
